@@ -1,22 +1,26 @@
 {
-    "id": "fala-popular",
-    "nome": "Rádio Fala Popular",
-    "cidade": "Rio Verde",
-    "estado": "GO",
-    "categoria": "Jornalismo",
-    "host": "stm19.xcast.com.br",
-    "caminho": "/",
-    "porta": 10792,
-    "ssl": true
-  },
-  {
-    "id": "livre-som",
-    "nome": "Rádio Livre Som",
-    "cidade": "Teste",
-    "estado": "BR",
-    "categoria": "Teste",
-    "host": "painel.livresom.com.br",
-    "caminho": "/radio",
-    "porta": 8010,
-    "ssl": true
-  }
+  "radios": [
+    {
+      "id": "fala-popular",
+      "nome": "Rádio Fala Popular",
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "categoria": "Jornalismo",
+      "host": "stm19.xcast.com.br",
+      "caminho": "/",
+      "porta": 10792,
+      "ssl": true
+    },
+    {
+      "id": "livre-som",
+      "nome": "Rádio Livre Som",
+      "cidade": "Teste",
+      "estado": "BR",
+      "categoria": "Teste",
+      "host": "painel.livresom.com.br",
+      "caminho": "/radio",
+      "porta": 8010,
+      "ssl": true
+    }
+  ]
+}
