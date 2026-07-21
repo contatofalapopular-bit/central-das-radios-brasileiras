@@ -10,7 +10,6 @@
       "caminho": "/",
       "porta": 10792,
       "ssl": true
-    },
-    
+    }
   ]
 }
