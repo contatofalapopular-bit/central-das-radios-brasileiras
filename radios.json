@@ -1,36 +1,66 @@
 {
-  "id": "GRUDA_FM",
-  "nome": "Gruda FM",
-  "cidade": "Mongaguá",
-  "estado": "SP",
-  "categoria": "MUSICAL",
-  "host": "servidor40-3.brlogic.com",
-  "porta": 7112
-},
-{
-  "id": "RADIO_PARAISO_WEB",
-  "nome": "Rádio Paraíso Web",
-  "cidade": "Taquaraçu de Minas",
-  "estado": "MG",
-  "categoria": "SECULAR",
-  "host": "stm.colossocast.com.br",
-  "porta": 7020
-},
-{
-  "id": "VIDA",
-  "nome": "Rádio Vida Natal",
-  "cidade": "Natal",
-  "estado": "RN",
-  "categoria": "GOSPEL",
-  "host": "stm18.voxhd.com.br",
-  "porta": 8678
-},
-{
-  "id": "CAPITAL_DO_TOMATE",
-  "nome": "Rádio Capital do Tomate",
-  "cidade": "Reserva",
-  "estado": "PR",
-  "categoria": "SERTANEJO",
-  "host": "stm3.colossocast.com.br",
-  "porta": 7610
+  "versao": 1,
+  "atualizado_em": "2026-07-21",
+  "radios": [
+    {
+      "id": "fala-popular",
+      "nome": "Rádio Fala Popular",
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "categoria": "Jornalismo e variedades",
+      "host": "stm19.xcast.com.br",
+      "porta": 10792,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    },
+    {
+      "id": "gruda-fm",
+      "nome": "Gruda FM",
+      "cidade": "Mongaguá",
+      "estado": "SP",
+      "categoria": "Musical",
+      "host": "servidor40-3.brlogic.com",
+      "porta": 7112,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    },
+    {
+      "id": "radio-paraiso-web",
+      "nome": "Rádio Paraíso Web",
+      "cidade": "Taquaraçu de Minas",
+      "estado": "MG",
+      "categoria": "Secular",
+      "host": "stm.colossocast.com.br",
+      "porta": 7020,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    },
+    {
+      "id": "vida-natal",
+      "nome": "Rádio Vida Natal",
+      "cidade": "Natal",
+      "estado": "RN",
+      "categoria": "Gospel",
+      "host": "stm18.voxhd.com.br",
+      "porta": 8678,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    },
+    {
+      "id": "capital-do-tomate",
+      "nome": "Rádio Capital do Tomate",
+      "cidade": "Reserva",
+      "estado": "PR",
+      "categoria": "Sertanejo",
+      "host": "stm3.colossocast.com.br",
+      "porta": 7610,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    }
+  ]
 }
